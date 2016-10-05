@@ -1,0 +1,761 @@
+Archive member included to satisfy reference by file (symbol)
+
+/Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(chip_8xx.o)
+                              ./src/Blinky_led_uart.o (SystemCoreClockUpdate)
+/Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(clock_8xx.o)
+                              ./src/Blinky_led_uart.o (Chip_Clock_GetMainClockRate)
+/Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(sysinit_8xx.o)
+                              ./src/sysinit.o (Chip_SystemInit)
+/Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(irc_8xx.o)
+                              /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(sysinit_8xx.o) (Chip_IRC_SetFreq)
+/Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(syscon_8xx.o)
+                              /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(sysinit_8xx.o) (Chip_SYSCTL_PowerDown)
+/Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(_udivsi3.o)
+                              ./src/Blinky_led_uart.o (__aeabi_uidiv)
+/Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(_dvmd_tls.o)
+                              /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(_udivsi3.o) (__aeabi_idiv0)
+/Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(_aeabi_uldivmod.o)
+                              /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(clock_8xx.o) (__aeabi_uldivmod)
+/Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(_udivmoddi4.o)
+                              /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(_aeabi_uldivmod.o) (__udivmoddi4)
+/Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(_clzdi2.o)
+                              /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(_udivmoddi4.o) (__clzdi2)
+/Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(_clzsi2.o)
+                              /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(_clzdi2.o) (__clzsi2)
+/Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-init.o)
+                              ./src/cr_startup_lpc8xx.o (__libc_init_array)
+/Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-malloc.o)
+                              ./src/cr_cpp_config.o (malloc)
+/Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-mallocr.o)
+                              /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-malloc.o) (_malloc_r)
+/Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-mlock.o)
+                              /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-mallocr.o) (__malloc_lock)
+/Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-sbrkr.o)
+                              /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-mallocr.o) (_sbrk_r)
+/Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-freer.o)
+                              /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-malloc.o) (_free_r)
+/Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-impure.o)
+                              /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-malloc.o) (_impure_ptr)
+/Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-reent.o)
+                              /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-sbrkr.o) (errno)
+/Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libcr_newlib_nohost.a(_cr_sbrk.o)
+                              /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-sbrkr.o) (_sbrk)
+/Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libcr_newlib_nohost.a(_cr_check_heap.o)
+                              /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libcr_newlib_nohost.a(_cr_sbrk.o) (__check_heap_overflow)
+/Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-errno.o)
+                              /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libcr_newlib_nohost.a(_cr_sbrk.o) (__errno)
+
+Allocating common symbols
+Common symbol       size              file
+
+errno               0x4               /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-reent.o)
+SystemCoreClock     0x4               /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(chip_8xx.o)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 ./src/Blinky_led_uart.o
+ .data          0x0000000000000000        0x0 ./src/Blinky_led_uart.o
+ .bss           0x0000000000000000        0x0 ./src/Blinky_led_uart.o
+ .text._Z6led_oni
+                0x0000000000000000        0xa ./src/Blinky_led_uart.o
+ .text._Z7led_offi
+                0x0000000000000000        0xa ./src/Blinky_led_uart.o
+ .text._Z20receive_char_by_UARTv
+                0x0000000000000000       0x20 ./src/Blinky_led_uart.o
+ .text          0x0000000000000000        0x0 ./src/cr_cpp_config.o
+ .data          0x0000000000000000        0x0 ./src/cr_cpp_config.o
+ .bss           0x0000000000000000        0x0 ./src/cr_cpp_config.o
+ .text._Znwj    0x0000000000000000        0x8 ./src/cr_cpp_config.o
+ .text._Znaj    0x0000000000000000        0x8 ./src/cr_cpp_config.o
+ .text._ZdlPv   0x0000000000000000        0x8 ./src/cr_cpp_config.o
+ .text._ZdaPv   0x0000000000000000        0x8 ./src/cr_cpp_config.o
+ .text.__aeabi_atexit
+                0x0000000000000000        0x4 ./src/cr_cpp_config.o
+ .text._ZN9__gnu_cxx27__verbose_terminate_handlerEv
+                0x0000000000000000        0x2 ./src/cr_cpp_config.o
+ .debug_info    0x0000000000000000      0x1b5 ./src/cr_cpp_config.o
+ .debug_abbrev  0x0000000000000000      0x145 ./src/cr_cpp_config.o
+ .debug_loc     0x0000000000000000       0x63 ./src/cr_cpp_config.o
+ .debug_aranges
+                0x0000000000000000       0x38 ./src/cr_cpp_config.o
+ .debug_ranges  0x0000000000000000       0x28 ./src/cr_cpp_config.o
+ .debug_line    0x0000000000000000      0x137 ./src/cr_cpp_config.o
+ .debug_str     0x0000000000000000      0x2e7 ./src/cr_cpp_config.o
+ .comment       0x0000000000000000       0x6f ./src/cr_cpp_config.o
+ .debug_frame   0x0000000000000000       0x90 ./src/cr_cpp_config.o
+ .ARM.attributes
+                0x0000000000000000       0x31 ./src/cr_cpp_config.o
+ .text          0x0000000000000000        0x0 ./src/cr_startup_lpc8xx.o
+ .data          0x0000000000000000        0x0 ./src/cr_startup_lpc8xx.o
+ .bss           0x0000000000000000        0x0 ./src/cr_startup_lpc8xx.o
+ .text          0x0000000000000000        0x0 ./src/crp.o
+ .data          0x0000000000000000        0x0 ./src/crp.o
+ .bss           0x0000000000000000        0x0 ./src/crp.o
+ .text          0x0000000000000000        0x0 ./src/mtb.o
+ .data          0x0000000000000000        0x0 ./src/mtb.o
+ .bss           0x0000000000000000        0x0 ./src/mtb.o
+ .text          0x0000000000000000        0x0 ./src/sysinit.o
+ .data          0x0000000000000000        0x0 ./src/sysinit.o
+ .bss           0x0000000000000000        0x0 ./src/sysinit.o
+ .text          0x0000000000000000        0x0 /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(chip_8xx.o)
+ .data          0x0000000000000000        0x0 /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(chip_8xx.o)
+ .bss           0x0000000000000000        0x0 /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(chip_8xx.o)
+ .text          0x0000000000000000        0x0 /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(clock_8xx.o)
+ .data          0x0000000000000000        0x0 /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(clock_8xx.o)
+ .bss           0x0000000000000000        0x0 /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(clock_8xx.o)
+ .text.Chip_Clock_SetPLLBypass
+                0x0000000000000000       0x14 /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(clock_8xx.o)
+ .text.Chip_Clock_SetCLKOUTSource
+                0x0000000000000000       0x1c /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(clock_8xx.o)
+ .text.Chip_Clock_GetUSARTNBaseClockRate
+                0x0000000000000000       0x48 /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(clock_8xx.o)
+ .text.Chip_Clock_SetUSARTNBaseClockRate
+                0x0000000000000000       0x74 /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(clock_8xx.o)
+ .text.Chip_Clock_GetIOCONCLKDIVClockRate
+                0x0000000000000000       0x28 /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(clock_8xx.o)
+ .text.Chip_Clock_SetIOCONCLKDIV
+                0x0000000000000000       0x14 /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(clock_8xx.o)
+ .text          0x0000000000000000        0x0 /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(sysinit_8xx.o)
+ .data          0x0000000000000000        0x0 /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(sysinit_8xx.o)
+ .bss           0x0000000000000000        0x0 /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(sysinit_8xx.o)
+ .text.Chip_SetupXtalClocking
+                0x0000000000000000       0x4c /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(sysinit_8xx.o)
+ .text          0x0000000000000000        0x0 /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(irc_8xx.o)
+ .data          0x0000000000000000        0x0 /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(irc_8xx.o)
+ .bss           0x0000000000000000        0x0 /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(irc_8xx.o)
+ .text.Chip_IRC_SetFreq_ROM
+                0x0000000000000000       0x60 /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(irc_8xx.o)
+ .text          0x0000000000000000        0x0 /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(syscon_8xx.o)
+ .data          0x0000000000000000        0x0 /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(syscon_8xx.o)
+ .bss           0x0000000000000000        0x0 /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(syscon_8xx.o)
+ .text.Chip_SYSCTL_SetDeepSleepPD
+                0x0000000000000000       0x18 /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(syscon_8xx.o)
+ .text.Chip_SYSCTL_SetWakeup
+                0x0000000000000000       0x20 /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(syscon_8xx.o)
+ .data          0x0000000000000000        0x0 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(_udivsi3.o)
+ .bss           0x0000000000000000        0x0 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(_udivsi3.o)
+ .data          0x0000000000000000        0x0 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(_dvmd_tls.o)
+ .bss           0x0000000000000000        0x0 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(_dvmd_tls.o)
+ .text          0x0000000000000000       0x40 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(_aeabi_uldivmod.o)
+ .data          0x0000000000000000        0x0 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(_aeabi_uldivmod.o)
+ .bss           0x0000000000000000        0x0 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(_aeabi_uldivmod.o)
+ .ARM.attributes
+                0x0000000000000000       0x1e /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(_aeabi_uldivmod.o)
+ .text          0x0000000000000000      0x180 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(_udivmoddi4.o)
+ .data          0x0000000000000000        0x0 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(_udivmoddi4.o)
+ .bss           0x0000000000000000        0x0 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(_udivmoddi4.o)
+ .ARM.extab     0x0000000000000000        0x0 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(_udivmoddi4.o)
+ .ARM.exidx     0x0000000000000000        0x8 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(_udivmoddi4.o)
+ .debug_frame   0x0000000000000000       0x3c /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(_udivmoddi4.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(_udivmoddi4.o)
+ .text          0x0000000000000000       0x18 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(_clzdi2.o)
+ .data          0x0000000000000000        0x0 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(_clzdi2.o)
+ .bss           0x0000000000000000        0x0 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(_clzdi2.o)
+ .ARM.attributes
+                0x0000000000000000       0x1e /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(_clzdi2.o)
+ .text          0x0000000000000000       0x3c /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(_clzsi2.o)
+ .data          0x0000000000000000        0x0 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(_clzsi2.o)
+ .bss           0x0000000000000000        0x0 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(_clzsi2.o)
+ .ARM.attributes
+                0x0000000000000000       0x1e /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(_clzsi2.o)
+ .text          0x0000000000000000        0x0 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-init.o)
+ .data          0x0000000000000000        0x0 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-init.o)
+ .bss           0x0000000000000000        0x0 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-init.o)
+ .text          0x0000000000000000        0x0 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-malloc.o)
+ .data          0x0000000000000000        0x0 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-malloc.o)
+ .bss           0x0000000000000000        0x0 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-malloc.o)
+ .text.malloc   0x0000000000000000       0x14 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-malloc.o)
+ .text.free     0x0000000000000000       0x14 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-malloc.o)
+ .debug_frame   0x0000000000000000       0x40 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-malloc.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-malloc.o)
+ .text          0x0000000000000000        0x0 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-mallocr.o)
+ .data          0x0000000000000000        0x0 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-mallocr.o)
+ .bss           0x0000000000000000        0x0 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-mallocr.o)
+ .text._malloc_r
+                0x0000000000000000      0x554 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-mallocr.o)
+ .data.__malloc_av_
+                0x0000000000000000      0x408 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-mallocr.o)
+ .data.__malloc_trim_threshold
+                0x0000000000000000        0x4 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-mallocr.o)
+ .bss.__malloc_max_total_mem
+                0x0000000000000000        0x4 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-mallocr.o)
+ .bss.__malloc_max_sbrked_mem
+                0x0000000000000000        0x4 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-mallocr.o)
+ .bss.__malloc_top_pad
+                0x0000000000000000        0x4 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-mallocr.o)
+ .bss.__malloc_current_mallinfo
+                0x0000000000000000       0x28 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-mallocr.o)
+ .data.__malloc_sbrk_base
+                0x0000000000000000        0x4 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-mallocr.o)
+ .debug_frame   0x0000000000000000       0x3c /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-mallocr.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-mallocr.o)
+ .text          0x0000000000000000        0x0 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-mlock.o)
+ .data          0x0000000000000000        0x0 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-mlock.o)
+ .bss           0x0000000000000000        0x0 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-mlock.o)
+ .text.__malloc_lock
+                0x0000000000000000        0x4 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-mlock.o)
+ .text.__malloc_unlock
+                0x0000000000000000        0x4 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-mlock.o)
+ .debug_frame   0x0000000000000000       0x30 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-mlock.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-mlock.o)
+ .text          0x0000000000000000        0x0 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-sbrkr.o)
+ .data          0x0000000000000000        0x0 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-sbrkr.o)
+ .bss           0x0000000000000000        0x0 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-sbrkr.o)
+ .text._sbrk_r  0x0000000000000000       0x24 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-sbrkr.o)
+ .debug_frame   0x0000000000000000       0x2c /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-sbrkr.o)
+ .text          0x0000000000000000        0x0 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-freer.o)
+ .data          0x0000000000000000        0x0 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-freer.o)
+ .bss           0x0000000000000000        0x0 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-freer.o)
+ .text._malloc_trim_r
+                0x0000000000000000       0xa0 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-freer.o)
+ .text._free_r  0x0000000000000000      0x1c4 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-freer.o)
+ .debug_frame   0x0000000000000000       0x54 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-freer.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-freer.o)
+ .text          0x0000000000000000        0x0 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-impure.o)
+ .data          0x0000000000000000        0x0 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-impure.o)
+ .bss           0x0000000000000000        0x0 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-impure.o)
+ .data.impure_data
+                0x0000000000000000      0x428 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x0000000000000000        0x4 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-impure.o)
+ .rodata.str1.4
+                0x0000000000000000        0x2 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x0000000000000000        0x4 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-impure.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-impure.o)
+ .text          0x0000000000000000        0x0 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-reent.o)
+ .data          0x0000000000000000        0x0 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-reent.o)
+ .bss           0x0000000000000000        0x0 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-reent.o)
+ .text.cleanup_glue
+                0x0000000000000000       0x1c /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-reent.o)
+ .text._reclaim_reent
+                0x0000000000000000       0x94 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-reent.o)
+ .debug_frame   0x0000000000000000       0x48 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-reent.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-reent.o)
+ COMMON         0x0000000000000000        0x4 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-reent.o)
+ .text          0x0000000000000000        0x0 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libcr_newlib_nohost.a(_cr_sbrk.o)
+ .data          0x0000000000000000        0x0 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libcr_newlib_nohost.a(_cr_sbrk.o)
+ .bss           0x0000000000000000        0x0 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libcr_newlib_nohost.a(_cr_sbrk.o)
+ .text._sbrk    0x0000000000000000       0x40 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libcr_newlib_nohost.a(_cr_sbrk.o)
+ .bss.__end_of_heap
+                0x0000000000000000        0x4 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libcr_newlib_nohost.a(_cr_sbrk.o)
+ .debug_info    0x0000000000000000      0x124 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libcr_newlib_nohost.a(_cr_sbrk.o)
+ .debug_abbrev  0x0000000000000000       0xcf /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libcr_newlib_nohost.a(_cr_sbrk.o)
+ .debug_loc     0x0000000000000000       0x5d /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libcr_newlib_nohost.a(_cr_sbrk.o)
+ .debug_aranges
+                0x0000000000000000       0x20 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libcr_newlib_nohost.a(_cr_sbrk.o)
+ .debug_ranges  0x0000000000000000       0x10 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libcr_newlib_nohost.a(_cr_sbrk.o)
+ .debug_line    0x0000000000000000      0x10b /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libcr_newlib_nohost.a(_cr_sbrk.o)
+ .debug_str     0x0000000000000000      0x229 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libcr_newlib_nohost.a(_cr_sbrk.o)
+ .comment       0x0000000000000000       0x6f /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libcr_newlib_nohost.a(_cr_sbrk.o)
+ .debug_frame   0x0000000000000000       0x2c /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libcr_newlib_nohost.a(_cr_sbrk.o)
+ .ARM.attributes
+                0x0000000000000000       0x31 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libcr_newlib_nohost.a(_cr_sbrk.o)
+ .text          0x0000000000000000        0x0 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libcr_newlib_nohost.a(_cr_check_heap.o)
+ .data          0x0000000000000000        0x0 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libcr_newlib_nohost.a(_cr_check_heap.o)
+ .bss           0x0000000000000000        0x0 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libcr_newlib_nohost.a(_cr_check_heap.o)
+ .text.__check_heap_overflow
+                0x0000000000000000       0x14 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libcr_newlib_nohost.a(_cr_check_heap.o)
+ .debug_info    0x0000000000000000       0x6a /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libcr_newlib_nohost.a(_cr_check_heap.o)
+ .debug_abbrev  0x0000000000000000       0x62 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libcr_newlib_nohost.a(_cr_check_heap.o)
+ .debug_loc     0x0000000000000000       0x1e /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libcr_newlib_nohost.a(_cr_check_heap.o)
+ .debug_aranges
+                0x0000000000000000       0x20 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libcr_newlib_nohost.a(_cr_check_heap.o)
+ .debug_ranges  0x0000000000000000       0x10 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libcr_newlib_nohost.a(_cr_check_heap.o)
+ .debug_line    0x0000000000000000       0x53 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libcr_newlib_nohost.a(_cr_check_heap.o)
+ .debug_str     0x0000000000000000      0x16b /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libcr_newlib_nohost.a(_cr_check_heap.o)
+ .comment       0x0000000000000000       0x6f /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libcr_newlib_nohost.a(_cr_check_heap.o)
+ .debug_frame   0x0000000000000000       0x20 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libcr_newlib_nohost.a(_cr_check_heap.o)
+ .ARM.attributes
+                0x0000000000000000       0x31 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libcr_newlib_nohost.a(_cr_check_heap.o)
+ .text          0x0000000000000000        0x0 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crti.o
+ .data          0x0000000000000000        0x0 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crti.o
+ .bss           0x0000000000000000        0x0 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crti.o
+ .text          0x0000000000000000        0x0 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crtn.o
+ .data          0x0000000000000000        0x0 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crtn.o
+ .bss           0x0000000000000000        0x0 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crtn.o
+ .data          0x0000000000000000        0x4 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crtbegin.o
+ .fini_array    0x0000000000000000        0x4 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crtbegin.o
+ .text          0x0000000000000000        0x0 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crtend.o
+ .data          0x0000000000000000        0x0 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crtend.o
+ .bss           0x0000000000000000        0x0 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crtend.o
+ .eh_frame      0x0000000000000000        0x4 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crtend.o
+ .jcr           0x0000000000000000        0x4 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crtend.o
+ .text          0x0000000000000000        0x0 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-errno.o)
+ .data          0x0000000000000000        0x0 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-errno.o)
+ .bss           0x0000000000000000        0x0 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-errno.o)
+ .text.__errno  0x0000000000000000        0xc /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-errno.o)
+ .debug_frame   0x0000000000000000       0x20 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-errno.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-errno.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+MFlash16         0x0000000000000000 0x0000000000004000 xr
+RamLoc4          0x0000000010000000 0x0000000000001000 xrw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD ./src/Blinky_led_uart.o
+LOAD ./src/cr_cpp_config.o
+LOAD ./src/cr_startup_lpc8xx.o
+LOAD ./src/crp.o
+LOAD ./src/mtb.o
+LOAD ./src/sysinit.o
+LOAD /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a
+LOAD /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/CMSIS_DSPLIB_CM0/lib/libCMSIS_DSPLIB_CM0.a
+START GROUP
+LOAD /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a
+LOAD /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc.a
+LOAD /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libstdc++.a
+LOAD /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libm.a
+LOAD /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libcr_newlib_nohost.a
+LOAD /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crti.o
+LOAD /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crtn.o
+LOAD /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crtbegin.o
+LOAD /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crtend.o
+END GROUP
+                0x0000000000000000                __base_MFlash16 = 0x0
+                0x0000000000000000                __base_Flash = 0x0
+                0x0000000000004000                __top_MFlash16 = 0x4000
+                0x0000000000004000                __top_Flash = 0x4000
+                0x0000000010000000                __base_RamLoc4 = 0x10000000
+                0x0000000010000000                __base_RAM = 0x10000000
+                0x0000000010001000                __top_RamLoc4 = 0x10001000
+                0x0000000010001000                __top_RAM = 0x10001000
+
+.text           0x0000000000000000      0xc38
+ FILL mask 0xff
+                0x0000000000000000                __vectors_start__ = ABSOLUTE (.)
+ *(.isr_vector)
+ .isr_vector    0x0000000000000000       0xc0 ./src/cr_startup_lpc8xx.o
+                0x0000000000000000                g_pfnVectors
+                0x00000000000000c0                . = ALIGN (0x4)
+                0x00000000000000c0                __section_table_start = .
+                0x00000000000000c0                __data_section_table = .
+                0x00000000000000c0        0x4 LONG 0xc38 LOADADDR (.data)
+                0x00000000000000c4        0x4 LONG 0x10000100 ADDR (.data)
+                0x00000000000000c8        0x4 LONG 0x0 SIZEOF (.data)
+                0x00000000000000cc                __data_section_table_end = .
+                0x00000000000000cc                __bss_section_table = .
+                0x00000000000000cc        0x4 LONG 0x10000100 ADDR (.bss)
+                0x00000000000000d0        0x4 LONG 0x28 SIZEOF (.bss)
+                0x00000000000000d4                __bss_section_table_end = .
+                0x00000000000000d4                __section_table_end = .
+ *(.after_vectors*)
+ .after_vectors
+                0x00000000000000d4       0x74 ./src/cr_startup_lpc8xx.o
+                0x00000000000000d4                NMI_Handler
+                0x00000000000000d6                HardFault_Handler
+                0x00000000000000d8                SVC_Handler
+                0x00000000000000da                PendSV_Handler
+                0x00000000000000dc                SysTick_Handler
+                0x00000000000000de                MRT_IRQHandler
+                0x00000000000000de                UART1_IRQHandler
+                0x00000000000000de                UART0_IRQHandler
+                0x00000000000000de                SPI1_IRQHandler
+                0x00000000000000de                IntDefaultHandler
+                0x00000000000000de                PININT3_IRQHandler
+                0x00000000000000de                UART2_IRQHandler
+                0x00000000000000de                PININT5_IRQHandler
+                0x00000000000000de                PININT4_IRQHandler
+                0x00000000000000de                PININT0_IRQHandler
+                0x00000000000000de                BOD_IRQHandler
+                0x00000000000000de                SCT_IRQHandler
+                0x00000000000000de                I2C_IRQHandler
+                0x00000000000000de                CMP_IRQHandler
+                0x00000000000000de                PININT7_IRQHandler
+                0x00000000000000de                WKT_IRQHandler
+                0x00000000000000de                PININT2_IRQHandler
+                0x00000000000000de                PININT1_IRQHandler
+                0x00000000000000de                WDT_IRQHandler
+                0x00000000000000de                PININT6_IRQHandler
+                0x00000000000000de                SPI0_IRQHandler
+                0x00000000000000e0                data_init(unsigned int, unsigned int, unsigned int)
+                0x00000000000000f2                bss_init(unsigned int, unsigned int)
+                0x0000000000000102                ResetISR
+                0x00000000000002fc                . = 0x2fc
+ *fill*         0x0000000000000148      0x1b4 ff
+                0x00000000000002fc                PROVIDE (__CRP_WORD_START__, .)
+ *(.crp)
+ .crp           0x00000000000002fc        0x4 ./src/crp.o
+                0x00000000000002fc                CRP_WORD
+                0x0000000000000300                PROVIDE (__CRP_WORD_END__, .)
+                0x0000000000000001                ASSERT (! ((__CRP_WORD_START__ == __CRP_WORD_END__)), Linker CRP Enabled, but no CRP_WORD provided within application)
+ *(.text*)
+ .text._Z9GPIO_initi
+                0x0000000000000300       0x1a ./src/Blinky_led_uart.o
+                0x0000000000000300                GPIO_init(int)
+ *fill*         0x000000000000031a        0x2 ff
+ .text._Z5delayv
+                0x000000000000031c       0x20 ./src/Blinky_led_uart.o
+                0x000000000000031c                delay()
+ .text._Z9UART_initm
+                0x000000000000033c       0x68 ./src/Blinky_led_uart.o
+                0x000000000000033c                UART_init(unsigned long)
+ .text._Z8SWM_initv
+                0x00000000000003a4       0x40 ./src/Blinky_led_uart.o
+                0x00000000000003a4                SWM_init()
+ .text._Z33receive_char_by_UART_non_blockingv
+                0x00000000000003e4       0x20 ./src/Blinky_led_uart.o
+                0x00000000000003e4                receive_char_by_UART_non_blocking()
+ .text.startup.main
+                0x0000000000000404       0x42 ./src/Blinky_led_uart.o
+                0x0000000000000404                main
+ .text.SystemInit
+                0x0000000000000446        0x8 ./src/sysinit.o
+                0x0000000000000446                SystemInit
+ *fill*         0x000000000000044e        0x2 ff
+ .text.SystemCoreClockUpdate
+                0x0000000000000450       0x10 /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(chip_8xx.o)
+                0x0000000000000450                SystemCoreClockUpdate
+ .text.Chip_Clock_SetSystemPLLSource
+                0x0000000000000460       0x14 /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(clock_8xx.o)
+                0x0000000000000460                Chip_Clock_SetSystemPLLSource
+ .text.Chip_Clock_SetMainClockSource
+                0x0000000000000474       0x14 /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(clock_8xx.o)
+                0x0000000000000474                Chip_Clock_SetMainClockSource
+ .text.Chip_Clock_GetWDTOSCRate
+                0x0000000000000488       0x28 /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(clock_8xx.o)
+                0x0000000000000488                Chip_Clock_GetWDTOSCRate
+ .text.Chip_Clock_GetSystemPLLInClockRate
+                0x00000000000004b0       0x34 /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(clock_8xx.o)
+                0x00000000000004b0                Chip_Clock_GetSystemPLLInClockRate
+ .text.Chip_Clock_GetSystemPLLOutClockRate
+                0x00000000000004e4       0x18 /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(clock_8xx.o)
+                0x00000000000004e4                Chip_Clock_GetSystemPLLOutClockRate
+ .text.Chip_Clock_GetMainClockRate
+                0x00000000000004fc       0x34 /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(clock_8xx.o)
+                0x00000000000004fc                Chip_Clock_GetMainClockRate
+ .text.Chip_Clock_GetSystemClockRate
+                0x0000000000000530       0x18 /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(clock_8xx.o)
+                0x0000000000000530                Chip_Clock_GetSystemClockRate
+ .text.Chip_SetupIrcClocking
+                0x0000000000000548       0x14 /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(sysinit_8xx.o)
+                0x0000000000000548                Chip_SetupIrcClocking
+ .text.Chip_SystemInit
+                0x000000000000055c        0x8 /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(sysinit_8xx.o)
+                0x000000000000055c                Chip_SystemInit
+ .text.Chip_IRC_SetFreq
+                0x0000000000000564       0xbc /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(irc_8xx.o)
+                0x0000000000000564                Chip_IRC_SetFreq
+ .text.Chip_SYSCTL_PowerDown
+                0x0000000000000620       0x24 /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(syscon_8xx.o)
+                0x0000000000000620                Chip_SYSCTL_PowerDown
+ .text.Chip_SYSCTL_PowerUp
+                0x0000000000000644       0x28 /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(syscon_8xx.o)
+                0x0000000000000644                Chip_SYSCTL_PowerUp
+ .text          0x000000000000066c      0x114 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(_udivsi3.o)
+                0x000000000000066c                __udivsi3
+                0x000000000000066c                __aeabi_uidiv
+                0x0000000000000778                __aeabi_uidivmod
+ .text          0x0000000000000780        0x4 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(_dvmd_tls.o)
+                0x0000000000000780                __aeabi_ldiv0
+                0x0000000000000780                __aeabi_idiv0
+ .text.__libc_init_array
+                0x0000000000000784       0x48 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-init.o)
+                0x0000000000000784                __libc_init_array
+ .text          0x00000000000007cc       0xb4 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crtbegin.o
+ *(.rodata .rodata.* .constdata .constdata.*)
+ .rodata.OscRateIn
+                0x0000000000000880        0x4 ./src/sysinit.o
+                0x0000000000000880                OscRateIn
+ .rodata.ExtRateIn
+                0x0000000000000884        0x4 ./src/sysinit.o
+                0x0000000000000884                ExtRateIn
+ .rodata.wdtOSCRate
+                0x0000000000000888       0x40 /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(clock_8xx.o)
+ .rodata.config_tab
+                0x00000000000008c8      0x354 /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(irc_8xx.o)
+                0x0000000000000c1c                . = ALIGN (0x4)
+                0x0000000000000c1c                . = ALIGN (0x4)
+ *(.init)
+ .init          0x0000000000000c1c        0x4 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crti.o
+                0x0000000000000c1c                _init
+ .init          0x0000000000000c20        0x8 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crtn.o
+                0x0000000000000c28                . = ALIGN (0x4)
+                0x0000000000000c28                __preinit_array_start = .
+ *(.preinit_array)
+                0x0000000000000c28                __preinit_array_end = .
+                0x0000000000000c28                . = ALIGN (0x4)
+                0x0000000000000c28                __init_array_start = .
+ *(SORT(.init_array.*))
+ *(.init_array)
+ .init_array    0x0000000000000c28        0x4 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crtbegin.o
+                0x0000000000000c2c                __init_array_end = .
+ *(.fini)
+ .fini          0x0000000000000c2c        0x4 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crti.o
+                0x0000000000000c2c                _fini
+ .fini          0x0000000000000c30        0x8 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crtn.o
+                0x0000000000000c38                . = ALIGN (0x4)
+ *crtbegin.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o) .ctors)
+ *(SORT(.ctors.*))
+ *crtend.o(.ctors)
+                0x0000000000000c38                . = ALIGN (0x4)
+ *crtbegin.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o) .dtors)
+ *(SORT(.dtors.*))
+ *crtend.o(.dtors)
+                0x0000000000000c38                . = ALIGN (0x4)
+
+.glue_7         0x0000000000000c38        0x0
+ .glue_7        0x0000000000000c38        0x0 linker stubs
+
+.glue_7t        0x0000000000000c38        0x0
+ .glue_7t       0x0000000000000c38        0x0 linker stubs
+
+.vfp11_veneer   0x0000000000000c38        0x0
+ .vfp11_veneer  0x0000000000000c38        0x0 linker stubs
+
+.v4_bx          0x0000000000000c38        0x0
+ .v4_bx         0x0000000000000c38        0x0 linker stubs
+
+.iplt           0x0000000000000c38        0x0
+ .iplt          0x0000000000000c38        0x0 ./src/Blinky_led_uart.o
+
+.rel.dyn        0x0000000000000c38        0x0
+ .rel.iplt      0x0000000000000c38        0x0 ./src/Blinky_led_uart.o
+
+.eh_frame       0x0000000000000c38        0x0
+ .eh_frame      0x0000000000000c38        0x0 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crtbegin.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x0000000000000c38                __exidx_start = .
+
+.ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x0000000000000c38                __exidx_end = .
+                0x0000000000000c38                _etext = .
+
+.mtb_buffer_default
+                0x0000000010000000      0x100
+ *(.mtb*)
+ .mtb.$RAM1     0x0000000010000000      0x100 ./src/mtb.o
+                0x0000000010000000                __mtb_buffer__
+
+.uninit_RESERVED
+                0x0000000010000100        0x0
+ *(.bss.$RESERVED*)
+                0x0000000010000100                . = ALIGN (0x4)
+                0x0000000010000100                _end_uninit_RESERVED = .
+
+.data           0x0000000010000100        0x0 load address 0x0000000000000c38
+ FILL mask 0xff
+                0x0000000010000100                _data = .
+ *(vtable)
+ *(.ramfunc*)
+ *(.data*)
+                0x0000000010000100                . = ALIGN (0x4)
+                0x0000000010000100                _edata = .
+
+.igot.plt       0x0000000010000100        0x0 load address 0x0000000000000c38
+ .igot.plt      0x0000000010000100        0x0 ./src/Blinky_led_uart.o
+
+.jcr            0x0000000010000100        0x0 load address 0x0000000000000c38
+ .jcr           0x0000000010000100        0x0 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crtbegin.o
+
+.tm_clone_table
+                0x0000000010000100        0x0 load address 0x0000000000000c38
+ .tm_clone_table
+                0x0000000010000100        0x0 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crtbegin.o
+ .tm_clone_table
+                0x0000000010000100        0x0 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crtend.o
+
+.bss            0x0000000010000100       0x28 load address 0x0000000000000c38
+                0x0000000010000100                _bss = .
+ *(.bss*)
+ .bss._ZZ5delayvE1i
+                0x0000000010000100        0x4 ./src/Blinky_led_uart.o
+ .bss.config_tab_idx
+                0x0000000010000104        0x2 /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(irc_8xx.o)
+ *fill*         0x0000000010000106        0x2 
+ .bss           0x0000000010000108       0x1c /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crtbegin.o
+ *(COMMON)
+ COMMON         0x0000000010000124        0x4 /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(chip_8xx.o)
+                0x0000000010000124                SystemCoreClock
+                0x0000000010000128                . = ALIGN (0x4)
+                0x0000000010000128                _ebss = .
+                [!provide]                        PROVIDE (end, .)
+
+.noinit         0x0000000010000128        0x0 load address 0x0000000000000c38
+                0x0000000010000128                _noinit = .
+ *(.noinit*)
+                0x0000000010000128                . = ALIGN (0x4)
+                0x0000000010000128                _end_noinit = .
+                0x0000000010000128                PROVIDE (_pvHeapStart, DEFINED (__user_heap_base)?__user_heap_base:.)
+                0x0000000010001000                PROVIDE (_vStackTop, DEFINED (__user_stack_top)?__user_stack_top:(__top_RamLoc4 - 0x0))
+                0xffffffffefffed51                PROVIDE (__valid_user_code_checksum, (0x0 - (((_vStackTop + (ResetISR + 0x1)) + (DEFINED (NMI_Handler)?NMI_Handler:M0_NMI_Handler + 0x1)) + (DEFINED (HardFault_Handler)?HardFault_Handler:M0_HardFault_Handler + 0x1))))
+OUTPUT(Blinky.axf elf32-littlearm)
+
+.debug_info     0x0000000000000000     0x347e
+ .debug_info    0x0000000000000000      0x995 ./src/Blinky_led_uart.o
+ .debug_info    0x0000000000000995      0x254 ./src/cr_startup_lpc8xx.o
+ .debug_info    0x0000000000000be9       0x3b ./src/crp.o
+ .debug_info    0x0000000000000c24       0x4d ./src/mtb.o
+ .debug_info    0x0000000000000c71       0xe8 ./src/sysinit.o
+ .debug_info    0x0000000000000d59       0xe3 /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(chip_8xx.o)
+ .debug_info    0x0000000000000e3c      0xb72 /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(clock_8xx.o)
+ .debug_info    0x00000000000019ae      0x6f0 /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(sysinit_8xx.o)
+ .debug_info    0x000000000000209e      0xf51 /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(irc_8xx.o)
+ .debug_info    0x0000000000002fef      0x48f /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(syscon_8xx.o)
+
+.debug_abbrev   0x0000000000000000      0xd99
+ .debug_abbrev  0x0000000000000000      0x296 ./src/Blinky_led_uart.o
+ .debug_abbrev  0x0000000000000296       0xfc ./src/cr_startup_lpc8xx.o
+ .debug_abbrev  0x0000000000000392       0x33 ./src/crp.o
+ .debug_abbrev  0x00000000000003c5       0x3e ./src/mtb.o
+ .debug_abbrev  0x0000000000000403       0x85 ./src/sysinit.o
+ .debug_abbrev  0x0000000000000488       0x96 /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(chip_8xx.o)
+ .debug_abbrev  0x000000000000051e      0x33c /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(clock_8xx.o)
+ .debug_abbrev  0x000000000000085a      0x1b6 /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(sysinit_8xx.o)
+ .debug_abbrev  0x0000000000000a10      0x2af /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(irc_8xx.o)
+ .debug_abbrev  0x0000000000000cbf       0xda /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(syscon_8xx.o)
+
+.debug_loc      0x0000000000000000      0x810
+ .debug_loc     0x0000000000000000      0x12b ./src/Blinky_led_uart.o
+ .debug_loc     0x000000000000012b      0x1d4 ./src/cr_startup_lpc8xx.o
+ .debug_loc     0x00000000000002ff      0x25a /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(clock_8xx.o)
+ .debug_loc     0x0000000000000559       0x50 /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(sysinit_8xx.o)
+ .debug_loc     0x00000000000005a9      0x1aa /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(irc_8xx.o)
+ .debug_loc     0x0000000000000753       0xbd /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(syscon_8xx.o)
+
+.debug_aranges  0x0000000000000000      0x240
+ .debug_aranges
+                0x0000000000000000       0x60 ./src/Blinky_led_uart.o
+ .debug_aranges
+                0x0000000000000060       0x60 ./src/cr_startup_lpc8xx.o
+ .debug_aranges
+                0x00000000000000c0       0x18 ./src/crp.o
+ .debug_aranges
+                0x00000000000000d8       0x18 ./src/mtb.o
+ .debug_aranges
+                0x00000000000000f0       0x20 ./src/sysinit.o
+ .debug_aranges
+                0x0000000000000110       0x20 /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(chip_8xx.o)
+ .debug_aranges
+                0x0000000000000130       0x80 /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(clock_8xx.o)
+ .debug_aranges
+                0x00000000000001b0       0x30 /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(sysinit_8xx.o)
+ .debug_aranges
+                0x00000000000001e0       0x28 /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(irc_8xx.o)
+ .debug_aranges
+                0x0000000000000208       0x38 /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(syscon_8xx.o)
+
+.debug_ranges   0x0000000000000000      0x300
+ .debug_ranges  0x0000000000000000       0x68 ./src/Blinky_led_uart.o
+ .debug_ranges  0x0000000000000068       0x50 ./src/cr_startup_lpc8xx.o
+ .debug_ranges  0x00000000000000b8       0x10 ./src/sysinit.o
+ .debug_ranges  0x00000000000000c8       0x10 /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(chip_8xx.o)
+ .debug_ranges  0x00000000000000d8       0xe8 /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(clock_8xx.o)
+ .debug_ranges  0x00000000000001c0       0x70 /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(sysinit_8xx.o)
+ .debug_ranges  0x0000000000000230       0xa8 /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(irc_8xx.o)
+ .debug_ranges  0x00000000000002d8       0x28 /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(syscon_8xx.o)
+
+.debug_line     0x0000000000000000      0xfd6
+ .debug_line    0x0000000000000000      0x2fc ./src/Blinky_led_uart.o
+ .debug_line    0x00000000000002fc       0x8b ./src/cr_startup_lpc8xx.o
+ .debug_line    0x0000000000000387       0x2d ./src/crp.o
+ .debug_line    0x00000000000003b4       0x2d ./src/mtb.o
+ .debug_line    0x00000000000003e1      0x1ae ./src/sysinit.o
+ .debug_line    0x000000000000058f      0x14e /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(chip_8xx.o)
+ .debug_line    0x00000000000006dd      0x2f7 /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(clock_8xx.o)
+ .debug_line    0x00000000000009d4      0x203 /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(sysinit_8xx.o)
+ .debug_line    0x0000000000000bd7      0x26e /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(irc_8xx.o)
+ .debug_line    0x0000000000000e45      0x191 /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(syscon_8xx.o)
+
+.debug_str      0x0000000000000000     0x1be9
+ .debug_str     0x0000000000000000      0x621 ./src/Blinky_led_uart.o
+                                        0x6ac (size before relaxing)
+ .debug_str     0x0000000000000621      0x161 ./src/cr_startup_lpc8xx.o
+                                        0x302 (size before relaxing)
+ .debug_str     0x0000000000000782       0xce ./src/crp.o
+                                        0x17a (size before relaxing)
+ .debug_str     0x0000000000000850       0x1c ./src/mtb.o
+                                        0x181 (size before relaxing)
+ .debug_str     0x000000000000086c       0x27 ./src/sysinit.o
+                                        0x243 (size before relaxing)
+ .debug_str     0x0000000000000893      0x198 /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(chip_8xx.o)
+                                        0x251 (size before relaxing)
+ .debug_str     0x0000000000000a2b      0x79d /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(clock_8xx.o)
+                                        0xbff (size before relaxing)
+ .debug_str     0x00000000000011c8      0x153 /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(sysinit_8xx.o)
+                                        0x6bd (size before relaxing)
+ .debug_str     0x000000000000131b      0x854 /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(irc_8xx.o)
+                                        0xed9 (size before relaxing)
+ .debug_str     0x0000000000001b6f       0x7a /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(syscon_8xx.o)
+                                        0x4b3 (size before relaxing)
+
+.comment        0x0000000000000000       0x6e
+ .comment       0x0000000000000000       0x6e ./src/Blinky_led_uart.o
+                                         0x6f (size before relaxing)
+ .comment       0x000000000000006e       0x6f ./src/cr_startup_lpc8xx.o
+ .comment       0x000000000000006e       0x6f ./src/crp.o
+ .comment       0x000000000000006e       0x6f ./src/mtb.o
+ .comment       0x000000000000006e       0x6f ./src/sysinit.o
+ .comment       0x000000000000006e       0x6f /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(chip_8xx.o)
+ .comment       0x000000000000006e       0x6f /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(clock_8xx.o)
+ .comment       0x000000000000006e       0x6f /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(sysinit_8xx.o)
+ .comment       0x000000000000006e       0x6f /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(irc_8xx.o)
+ .comment       0x000000000000006e       0x6f /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(syscon_8xx.o)
+
+.ARM.attributes
+                0x0000000000000000       0x31
+ .ARM.attributes
+                0x0000000000000000       0x31 ./src/Blinky_led_uart.o
+ .ARM.attributes
+                0x0000000000000031       0x31 ./src/cr_startup_lpc8xx.o
+ .ARM.attributes
+                0x0000000000000062       0x31 ./src/crp.o
+ .ARM.attributes
+                0x0000000000000093       0x31 ./src/mtb.o
+ .ARM.attributes
+                0x00000000000000c4       0x31 ./src/sysinit.o
+ .ARM.attributes
+                0x00000000000000f5       0x31 /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(chip_8xx.o)
+ .ARM.attributes
+                0x0000000000000126       0x31 /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(clock_8xx.o)
+ .ARM.attributes
+                0x0000000000000157       0x31 /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(sysinit_8xx.o)
+ .ARM.attributes
+                0x0000000000000188       0x31 /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(irc_8xx.o)
+ .ARM.attributes
+                0x00000000000001b9       0x31 /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(syscon_8xx.o)
+ .ARM.attributes
+                0x00000000000001ea       0x1e /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x0000000000000208       0x1e /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x0000000000000226       0x2c /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-init.o)
+ .ARM.attributes
+                0x0000000000000252       0x1e /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crti.o
+ .ARM.attributes
+                0x0000000000000270       0x1e /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crtn.o
+ .ARM.attributes
+                0x000000000000028e       0x2c /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crtbegin.o
+ .ARM.attributes
+                0x00000000000002ba       0x2c /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crtend.o
+
+.debug_frame    0x0000000000000000      0x444
+ .debug_frame   0x0000000000000000       0xd4 ./src/Blinky_led_uart.o
+ .debug_frame   0x00000000000000d4       0xb0 ./src/cr_startup_lpc8xx.o
+ .debug_frame   0x0000000000000184       0x28 ./src/sysinit.o
+ .debug_frame   0x00000000000001ac       0x28 /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(chip_8xx.o)
+ .debug_frame   0x00000000000001d4      0x124 /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(clock_8xx.o)
+ .debug_frame   0x00000000000002f8       0x5c /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(sysinit_8xx.o)
+ .debug_frame   0x0000000000000354       0x4c /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(irc_8xx.o)
+ .debug_frame   0x00000000000003a0       0x58 /Users/odieste/Desktop/Dropbox/Shared/Natalia and others -- FIDIPRO/Experiments/TDD/Training materials/OY Fall 2016 (Testable design)/workspace/lpc_chip_8xx/Release/liblpc_chip_8xx.a(syscon_8xx.o)
+ .debug_frame   0x00000000000003f8       0x20 /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(_udivsi3.o)
+ .debug_frame   0x0000000000000418       0x2c /Applications/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-init.o)
