@@ -1,4 +1,4 @@
-src/sysinit.o src/sysinit.d: ../src/sysinit.c \
+src/Blinky_led.o src/Blinky_led.d: ../src/Blinky_led.cpp \
  /wrk3/pasilack/lpcxpresso_8.2.2_650/lpcxpresso/LPCXpresso/workspace/lpc_chip_8xx/inc/chip.h \
  /wrk3/pasilack/lpcxpresso_8.2.2_650/lpcxpresso/LPCXpresso/workspace/lpc_chip_8xx/inc/lpc_types.h \
  /wrk3/pasilack/lpcxpresso_8.2.2_650/lpcxpresso/LPCXpresso/workspace/lpc_chip_8xx/inc/sys_config.h \

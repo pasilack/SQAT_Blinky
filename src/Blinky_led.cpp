@@ -19,6 +19,8 @@
 #include <cr_section_macros.h>
 
 #define LED_GREEN 17
+#define LED_BLUE 16
+#define LED_RED 7
 
 void GPIO_init(int pin) {
 	int port = 0;
@@ -65,12 +67,21 @@ int main(void) {
 #endif
 
     GPIO_init(LED_GREEN);
-
+    GPIO_init(LED_BLUE);
+    GPIO_init(LED_RED);
     // Enter an infinite loop
     while(true) {
         led_on(LED_GREEN);
         delay();
         led_off(LED_GREEN);
+        delay();
+        led_on(LED_BLUE);
+        delay();
+        led_off(LED_BLUE);
+        delay();
+        led_on(LED_RED);
+        delay();
+        led_off(LED_RED);
         delay();
     }
 

@@ -5,7 +5,7 @@
  * Generated linker script file for LPC812
  * Created from linkscript.ldt by FMCreateLinkLibraries
  * Using Freemarker v2.3.23
- * LPCXpresso v8.1.4 [Build 606] [2016-03-14]  on Oct 4, 2016 10:53:34 PM
+ * LPCXpresso v8.2.2 [Build 650] [2016-09-09]  on Oct 11, 2016 1:15:17 PM
  */
 
 INCLUDE "Blinky_Debug_library.ld"
@@ -38,13 +38,13 @@ SECTIONS
 
         *(.after_vectors*)
 
-        /* Code Read Protect data */
+        /* Code Read Protection data */
         . = 0x000002FC ;
         PROVIDE(__CRP_WORD_START__ = .) ;
         KEEP(*(.crp))
         PROVIDE(__CRP_WORD_END__ = .) ;
         ASSERT(!(__CRP_WORD_START__ == __CRP_WORD_END__), "Linker CRP Enabled, but no CRP_WORD provided within application");
-        /* End of Code Read Protect */
+        /* End of Code Read Protection */
     } >MFlash16
 
     .text : ALIGN(4)    
